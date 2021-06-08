@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Immune_find_pathogen/manim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Single_immune_Cell" vcs="Git" />
+  </component>
+</project>
